@@ -1,0 +1,12 @@
+Main complete code dunga:
+├── App.tsx
+├── Components (multiple files)
+├── Utils
+├── Types
+└── Styles
+
+Tumhe bas:
+1. StackBlitz kholna hai
+2. Files banana hai
+3. Code paste karna hai
+4. Done! 🎉
